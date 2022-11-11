@@ -13,6 +13,8 @@ I am a huge Dungeon Keeper fan, so I started to create this Keeper Chatgame.
 Right now it is kinda small and there is not much to do, but I will update it every few weeks.
 If you have any great ideas how to improve it just contact me. =)
 
+
+
 # Keeper Chatgame Commands
 
 1. !startgame --> it will ask you if you want to play good or evil (the creatures are diffrent)
@@ -28,12 +30,23 @@ If you have any great ideas how to improve it just contact me. =)
 
 # Keeper Chatgame Goldevent
 
-It is really simple. Every 30 minutes the bot will ask you to write "!slapimp". If you do that you join the event. If more people join the reward is getting bigger, after a time the bot will announce the winner of the event. The winner ist randomly selected and gets alot more gold than the rest of the players.
+It is really simple. 
+
+Every 30 minutes the bot will ask you to write "!slapimp". 
+
+If you do that you join the event. If more people join the reward is getting bigger, after a time the bot will announce the winner of the event. The winner ist randomly selected and gets alot more gold than the rest of the players.
+
 
 
 # Keeper Chatgame lure Creatureevent
 
-The bot will ask you to show off your dungeon. If you write !showoff into the chat. You will be rewarded with 1-3 creatures. Which creatures you will get, depends if you are evil or good. Better creatures are more rare.
+The bot will ask you to show off your dungeon. 
+
+If you write !showoff into the chat. You will be rewarded with 1-3 creatures. 
+
+Which creatures you will get, depends if you are evil or good. Better creatures are more rare.
+
+
 
 # Keeper Chatgame Creatures
 
@@ -43,11 +56,16 @@ Right now there are 3 creatures available.
 2. Thief (good)
 3. Bug (evil)
 
+
+
 # Keeper Chatgame Attack_username details
 
 Like in Dungeon Keeper you can or need to fight. =D
-If you attack someone your 10 strongest creatures will attack the enemy. Every creature fights 1 creature. There is always a random factor in it, so if the same creatures are fighting it will not end always in a draw.
+
+If you attack someone, your 10 strongest creatures will attack the enemy. Every creature fights 1 creature. There is always a random factor in it, so if the same creatures are fighting it will not end always in a draw.
 For every surviving creature you gain 150 gold. So it is possible to triple your costs. =D
+
+
 
 # just some words
 
