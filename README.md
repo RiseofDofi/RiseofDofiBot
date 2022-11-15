@@ -65,6 +65,8 @@ Like in Dungeon Keeper you can or need to fight. =D
 If you attack someone, your 10 strongest creatures will attack the enemy. Every creature fights 1 creature. There is always a random factor in it, so if the same creatures are fighting it will not end always in a draw.
 For every surviving creature you gain 150 gold. So it is possible to triple your costs. =D
 
+In addition, there is a 5% chance on each win to capture the defeated creature.
+
 
 
 # just some words
