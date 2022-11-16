@@ -25,8 +25,9 @@ If you have any great ideas how to improve it just contact me. =)
 6. !gold --> it will show you your amount of gold
 7. !lure --> you can lure creatures outside of the "lure creatureevent", it costs 2000 gold
 8. !creatures --> it will show you, how many and which creatures you have
-9. !attack_username --> you attack with 10 creatures, it costs 500 Gold (you can only attack if the enemy (username) has at least 10 creatures and 1500 Gold)
-10. more will come!!!
+9. !attack_username --> you attack with 10 creatures, it costs 500 gold (you can only attack if the enemy (username) has at least 10 creatures and 1500 Gold)
+10. !torture_creature --> torture whatevery creature you have imprisoned, it costs 100 gold
+11. more will come!!!
 
 # Keeper Chatgame Goldevent
 
@@ -65,7 +66,13 @@ Like in Dungeon Keeper you can or need to fight. =D
 If you attack someone, your 10 strongest creatures will attack the enemy. Every creature fights 1 creature. There is always a random factor in it, so if the same creatures are fighting it will not end always in a draw.
 For every surviving creature you gain 150 gold. So it is possible to triple your costs. =D
 
-In addition, there is a 5% chance on each win to capture the defeated creature.
+In addition, there is a 5% chance on each win to capture the defeated creature and imprison it.
+
+
+
+# Keeper Chatgame torture_creature details
+
+You can torture imprisoned creatures. They can turn and join your army or become ghosts. It is also possible that they just die from torture.
 
 
 
