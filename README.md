@@ -27,7 +27,8 @@ If you have any great ideas how to improve it just contact me. =)
 8. !creatures --> it will show you, how many and which creatures you have
 9. !attack_username --> you attack with 10 creatures, it costs 500 gold (you can only attack if the enemy (username) has at least 10 creatures and 1500 Gold)
 10. !torture_creature --> torture whatevery creature you have imprisoned, it costs 100 gold
-11. more will come!!!
+11. !prisoners --> it will show you, how many and which creatures you have imprisoned
+12. more will come!!!
 
 # Keeper Chatgame Goldevent
 
