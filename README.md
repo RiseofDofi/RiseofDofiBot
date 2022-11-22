@@ -52,11 +52,12 @@ Which creatures you will get, depends if you are evil or good. Better creatures 
 
 # Keeper Chatgame Creatures
 
-Right now there are 3 creatures available.
+Right now there are 4 creatures available.
 
 1. Imp (neutral)
 2. Thief (good)
 3. Bug (evil)
+4. Ghosts (neutral)
 
 
 
