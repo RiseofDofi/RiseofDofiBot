@@ -24,13 +24,14 @@ If you have any great ideas how to improve it just contact me. =)
 5. !showoff --> join the lure creatureevent (more information about that in the next section)
 6. !gold --> it will show you your amount of gold
 7. !lure --> you can lure creatures outside of the "lure creatureevent", it costs 300 gold
-8. !creatures --> it will show you, how many and which creatures you have
-9. !attack_username --> you attack with 10 creatures, it costs 500 gold (you can only attack if the enemy (username) has at least 10 creatures)
-10. !torture_creature --> torture whatevery creature you have imprisoned, it costs 100 gold
-11. !prisoners --> it will show you, how many and which creatures you have imprisoned
-12. !poisontrap --> you create a poisontrap, it costs 200 gold (more information about that in the next section)
-13. !traps --> it will show you, how many traps and which traps you have (there is a maximum on traps, currently it is 5)
-14. more will come!!!
+8. !lure_5 --> you can lure any number of times. In this case it would do the lure command 5 times
+9. !creatures --> it will show you, how many and which creatures you have
+10. !attack_username --> you attack with 10 creatures, it costs 500 gold (you can only attack if the enemy (username) has at least 10 creatures)
+11. !torture_creature (for example: !torture_imp) --> torture whatevery creature you have imprisoned, it costs 100 gold
+12. !prisoners --> it will show you, how many and which creatures you have imprisoned
+13. !poisontrap --> you create a poisontrap, it costs 200 gold (more information about that in the next section)
+14. !traps --> it will show you, how many traps and which traps you have (there is a maximum on traps, currently it is 5)
+15. more will come!!!
 
 
 
@@ -71,12 +72,14 @@ Right now there is only 1 trap available.
 
 # Keeper Chatgame Creatures
 
-Right now there are 4 creatures available.
+Right now there are 6 creatures available.
 
 1. Imp (neutral)
 2. Thief (good)
 3. Bug (evil)
 4. Ghosts (neutral)
+5. Demonspawn (evil)
+6. Archer (good)
 
 
 
