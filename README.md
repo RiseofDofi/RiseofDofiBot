@@ -34,7 +34,7 @@ If you have any great ideas how to improve it just contact me. =)
 
 # Keeper Chatgame Goldevent, lure Creatureevent, traps
 
-Every 30 min you get 1 to 3 random creatures, one trap and gold.
+if you wrote something in the Chat in the last 30 min you get 1 to 3 random creatures, one trap and gold. (You need to be a Keeper for this to work)
 
 Every Imp you have increases the Goldincome by 1%.
 
