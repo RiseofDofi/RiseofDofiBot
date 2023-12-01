@@ -54,7 +54,7 @@ Right now there are 8 creatures available.
 
 
 
-# Keeper Chatgame Attack_username details
+# Keeper Chatgame Attack username details
 
 Like in Dungeon Keeper you can or need to fight. =D
 
@@ -65,7 +65,7 @@ In addition, there is a 5% chance on each win to capture the defeated creature a
 
 
 
-# Keeper Chatgame torture_creature details
+# Keeper Chatgame torture creature details
 
 You can torture imprisoned creatures. They can turn and join your army or become ghosts. It is also possible that they just die from torture.
 
