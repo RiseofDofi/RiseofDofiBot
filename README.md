@@ -41,7 +41,7 @@ Every Imp you have increases the Goldincome by 1%.
 
 # Keeper Chatgame Creatures
 
-Right now there are 6 creatures available.
+Right now there are 8 creatures available.
 
 1. Imp (neutral)
 2. Thief (good)
@@ -49,6 +49,8 @@ Right now there are 6 creatures available.
 4. Ghosts (neutral)
 5. Demonspawn (evil)
 6. Archer (good)
+7. Warlock (evil)
+8. Barbarian (good)
 
 
 
