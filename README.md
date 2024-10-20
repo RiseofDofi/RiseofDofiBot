@@ -3,7 +3,7 @@
 1. !dice --> it will roll a 6 sided dice
 2. !time --> it will show my date and time
 3. !help --> link to Github Readme. (I assume you are here, because of that) =D
-4. if you have any useful commands you can think of contact me! =)
+4. if you have any useful commands you can think of, contact me! =)
 
 
 
@@ -21,7 +21,7 @@ If you have any great ideas how to improve it just contact me. =)
 2. !good --> you will start as a good Keeper
 3. !evil --> you will start as an evil Keeper
 4. !gold --> it will show you your amount of gold
-5. !lure --> you can lure creatures outside of the "lure creatureevent", it costs 300 gold
+5. !lure --> you can lure creatures, it costs 300 gold
 6. !lure 5 --> you can lure any number of times. In this case it would do the lure command 5 times
 7. !creatures --> it will show you, how many and which creatures you have
 8. !attack username --> you attack with 10 creatures, it costs 500 gold (you can only attack if the enemy (username) has at least 10 creatures)
